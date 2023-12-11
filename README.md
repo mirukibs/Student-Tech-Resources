@@ -47,7 +47,8 @@ These resources will help you with basic knowledge on programming concepts, lang
 | ---------------------- | --------------------------------- |
 | [PHP Tutorial](https://www.phptutorial.net/) | This PHP tutorial helps you learn how to develop dynamic websites and web applications using PHP from scratch.     |
 | [W3Schools](https://www.w3schools.com/) | A platform that teaches different programming languages and concepts|
-| [Codecademy](https://www.codecademy.com/) | A platform that teaches different programming languages and concepts|
+| [Codecademy](https://www.codecademy.com/) | A platform that teaches different programming languages and concepts |
+| [KhanAcademy](https://www.khanacademy.org/) | Like the other above, it teaches different programming languages and concepts |
 
 ### Tools
 
