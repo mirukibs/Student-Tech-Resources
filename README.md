@@ -52,7 +52,11 @@ These resources will help you with basic knowledge on programming concepts, lang
 | [Coding with John](https://www.youtube.com/@CodingWithJohn) | Just like the above |
 | [FreeCodeCamp](https://www.youtube.com/@freecodecamp) | The YouTube channel for [freeCodeCamp](https://www.freecodecamp.org/) |
 
-[⬆️ Back to Top](#tech-student-resources-)
+<p align="center">
+    <a href="#tech-student-resources-">
+        ⬆️ Back to Top
+    </a>
+</p>
 
 
 ## Designing (Visual Designs)
@@ -85,7 +89,11 @@ These resources are for visual designs such as graphics, UI/UX, and PowerPoint d
 | [Learn Adobe Illustrator](https://www.youtube.com/playlist?list=PLYfCBK8IplO4X-jM1Rp43wAIdpP2XNGwP) | A YouTube playlist for learning Adobe Illustrator |
 | [Satori Graphics](https://www.youtube.com/@SatoriGraphics) | A channel for graphic designing |
 
-[⬆️ Back to Top](#tech-student-resources-)
+<p align="center">
+    <a href="#tech-student-resources-">
+        ⬆️ Back to Top
+    </a>
+</p>
 
 
 ## Mobile Development
@@ -112,7 +120,11 @@ These are resources for Mobile Development.
 | [Flutter for beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&si=YxdEZq3z5hEtt3B_) | A playlist to get started on Flutter |
 | [React Native for beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9ixPU-QkScoRBVxtPPzVjrQ&si=7ZrrjhGjJzQlJdcV) | A playlist to get started on React Native |
 
-[⬆️ Back to Top](#tech-student-resources-)
+<p align="center">
+    <a href="#tech-student-resources-">
+        ⬆️ Back to Top
+    </a>
+</p>
 
 
 ## Backend Programming
@@ -153,7 +165,11 @@ These resources cover Backend Development.
 | [Techsith - Spring Framework](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas) | In-depth tutorials on the Spring Framework by Techsith. |
 | [sentdex - Django Web Development with Python](https://www.youtube.com/watch?v=OTmQOjsl0eg) | Django web development series by sentdex. |
 
-[⬆️ Back to Top](#tech-student-resources-)
+<p align="center">
+    <a href="#tech-student-resources-">
+        ⬆️ Back to Top
+    </a>
+</p>
 
 
 ## Frontend Development
@@ -191,7 +207,7 @@ These resources are tailored for Frontend Development.
 
 <p align="center">
     <a href="#tech-student-resources-">
-        [⬆️ Back to Top](#tech-student-resources-)
+        ⬆️ Back to Top
     </a>
 </p>
 
