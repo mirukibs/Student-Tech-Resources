@@ -16,6 +16,7 @@ Engage with the intellectual ambiance, contribute to the collective wisdom, and 
 - [Frontend Development](#frontend-development)
 - [Deployment](#deployment)
 - [System Design](#system-design)
+- [Classroom Content](#classroom-content)
 - [License](#license)
 
 ## Contribution
