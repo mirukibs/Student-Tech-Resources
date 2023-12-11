@@ -100,9 +100,7 @@ These are resources for Mobile Development.
 | Name                          | Description                       |
 | ----------------------------- | --------------------------------- |
 | [Android Dev for Beginners](https://youtu.be/fis26HvvDII?si=1Yaqi91WCIc9ptkO) | A video course on Android dev in Java |
-| [Android Development](https://youtube.com/playlist?list=PLsyeobzWxl7p-lZvW
-
-abkVJdM_UVURhUh4&si=DwLOUMSYivAWLWKj) | A playlist for learning android development |
+| [Android Development](https://youtube.com/playlist?list=PLsyeobzWxl7p-lZvWabkVJdM_UVURhUh4&si=DwLOUMSYivAWLWKj) | A playlist for learning android development |
 | [iOS App Development for Beginners](https://youtube.com/playlist?list=PL5PR3UyfTWvcRhz4ms-nNoGja2-DkA_6T&si=fcpRwQWgsvRHumZ7) | A playlist on app development for iOS systems |
 | [Flutter](https://www.youtube.com/@flutterdev) | The official Flutter YouTube channel with different tutorials |
 | [Flutter for beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&si=YxdEZq3z5hEtt3B_) | A playlist to get started on Flutter |
