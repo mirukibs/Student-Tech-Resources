@@ -1,6 +1,3 @@
-Certainly! Here's the updated order for your CONTRIBUTING.md file:
-
-```markdown
 # Contributing to Tech Student Resources 🚀
 
 Thank you for considering contributing to this project! Your input is highly valued. Follow the steps below to make your contribution:
