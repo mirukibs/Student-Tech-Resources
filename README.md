@@ -166,7 +166,7 @@ These resources cover Backend Development.
 | [Telusko - Django Web Development with Python](https://www.youtube.com/watch?v=OTmQOjsl0eg) | Django web development series by Telusko. |
 
 <p align="center">
-    <a href="#tech-student-resources-" style="text-decoration: none; display: inline-block; padding: 10px 20px; background-color: #4CAF50; color: #ffffff; border-radius: 5px; font-weight: bold;">
+    <a href="#tech-student-resources-">
         ⬆️ Back to Top
     </a>
 </p>
