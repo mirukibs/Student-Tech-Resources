@@ -14,6 +14,7 @@ Engage with the intellectual ambiance, contribute to the collective wisdom, and 
 - [Mobile Development](#mobile-development)
 - [Backend Programming](#backend-programming)
 - [Frontend Development](#frontend-development)
+- [Deployment](#deployment)
 - [License](#license)
 
 ## Contribution
@@ -204,6 +205,63 @@ These resources are tailored for Frontend Development.
 | [The Net Ninja - React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR) | React.js tutorials by The Net Ninja. |
 | [Vue.js](https://www.youtube.com/c/vuejs) | The official Vue.js YouTube channel with tutorials and updates. |
 | [Academind - Vue.js](https://www.youtube.com/playlist?list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07) | Vue.js tutorials by Academind. |
+
+<p align="center">
+    <a href="#tech-student-resources-">
+        ⬆️ Back to Top
+    </a>
+</p>
+
+
+## Deployment
+
+Explore these resources to deploy and host your applications.
+
+### Hosting Platforms
+
+| Name                   | Description                       |
+| ---------------------- | --------------------------------- |
+| [DigitalOcean](https://www.digitalocean.com/) | Cloud infrastructure provider offering scalable and easy-to-use virtual servers (Droplets) and other cloud services. |
+| [Heroku](https://www.heroku.com/) | Platform as a Service (PaaS) that enables developers to build, deploy, and scale applications quickly. |
+| [Vercel](https://vercel.com/) | A platform for static and Jamstack deployment, offering a seamless experience for frontend projects. |
+| [Netlify](https://www.netlify.com/) | Hosting and automation platform that simplifies the process of deploying and managing modern web projects. |
+| [Railway](https://railway.app/) | A platform for deploying, managing, and scaling web applications with ease. |
+| [AWS (Amazon Web Services)](https://aws.amazon.com/) | A comprehensive cloud computing platform by Amazon, providing a wide range of services for computing, storage, and more. |
+| [Google Cloud Platform](https://cloud.google.com/) | Google's cloud services platform offering a variety of solutions for computing, storage, machine learning, and more. |
+| [Microsoft Azure](https://azure.microsoft.com/) | Microsoft's cloud computing platform with services for virtual computing, databases, AI, and more. |
+| [Firebase](https://firebase.google.com/) | A mobile and web application development platform by Google, offering various services including hosting, authentication, and databases. |
+| [IBM Cloud](https://www.ibm.com/cloud) | IBM's cloud platform providing a range of cloud computing services such as AI, data storage, and virtual servers. |
+| [Linode](https://www.linode.com/) | A cloud hosting platform offering virtual private servers with a focus on simplicity and high-performance computing. |
+
+### Tutorials
+
+| Name                          | Description                       |
+| ----------------------------- | --------------------------------- |
+| [DigitalOcean Documentation](https://www.digitalocean.com/docs/) | Comprehensive documentation on using DigitalOcean services for hosting and deployment. |
+| [Heroku Dev Center](https://devcenter.heroku.com/) | Heroku's documentation and guides for deploying various types of applications. |
+| [Vercel Docs](https://vercel.com/docs) | Documentation for deploying frontend projects, serverless functions, and more with Vercel. |
+| [Netlify Docs](https://docs.netlify.com/) | Detailed guides and documentation for deploying and managing projects on Netlify. |
+| [Railway Documentation](https://docs.railway.app/) | Railway's documentation to help you get started with deploying and managing applications on their platform. |
+| [AWS Documentation](https://docs.aws.amazon.com/) | Amazon Web Services documentation for various cloud services and solutions. |
+| [Google Cloud Documentation](https://cloud.google.com/docs) | Documentation for Google Cloud Platform services and products. |
+| [Microsoft Azure Documentation](https://docs.microsoft.com/en-us/azure/) | Microsoft Azure documentation covering a wide range of cloud services. |
+| [Firebase Documentation](https://firebase.google.com/docs) | Documentation for Firebase services including hosting, authentication, and databases. |
+| [IBM Cloud Documentation](https://cloud.ibm.com/docs) | IBM Cloud documentation for services and solutions available on their platform. |
+| [Linode Documentation](https://www.linode.com/docs/) | Linode's documentation covering virtual private servers and related services. |
+
+### YouTube
+
+| Name                          | Description                       |
+| ----------------------------- | --------------------------------- |
+| [DigitalOcean - YouTube Channel](https://www.youtube.com/c/DigitalOcean) | DigitalOcean's official YouTube channel with tutorials on cloud computing and deployment. |
+| [Digital Ocean Tutorials](https://youtube.com/playlist?list=PLYxzS__5yYQk7h6aoN5_rvvvC8WUMxAaB&si=Wev8yKTABLBPm0V9) | DigitalOcean tutorials by codedamn |
+| [Heroku - YouTube Channel](https://www.youtube.com/c/heroku) | Heroku's official YouTube channel with guides and tutorials for deploying applications. |
+| [Netlify - YouTube Channel](https://www.youtube.com/c/Netlify) | Netlify's official YouTube channel with tutorials on web development and deployment. |
+| [AWS - YouTube Channel](https://www.youtube.com/user/AmazonWebServices) | Amazon Web Services official YouTube channel with tutorials and webinars on various cloud services. |
+| [Google Cloud - YouTube Channel](https://www.youtube.com/user/googlecloudplatform) | Google Cloud Platform official YouTube channel with content on cloud services and solutions. |
+| [Microsoft Azure - YouTube Channel](https://www.youtube.com/c/microsoftazure) | Microsoft Azure official YouTube channel with videos on cloud solutions and tutorials. |
+| [Firebase - YouTube Channel](https://www.youtube.com/c/Firebase) | Firebase official YouTube channel with tutorials and updates on Firebase services. |
+| [IBM Cloud - YouTube Channel](https://www.youtube.com/user/IBMCloud) | IBM Cloud official YouTube channel with content on cloud
 
 <p align="center">
     <a href="#tech-student-resources-">
