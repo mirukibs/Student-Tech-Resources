@@ -12,9 +12,7 @@ Engage with the intellectual ambiance, contribute to the collective wisdom, and 
 
 ## Introduction
 
-Esteemed tech enthusiasts! 🧙‍♂️ Facilitating navigation through the expansive realm of resources, this repository stands as a valuable asset. Embark on a journey to uncover exceptional websites, profound ebooks, and transformative programming hacks. Your pursuit of knowledge commences here! 🚀
-
-Engage with the intellectual ambiance, contribute to the collective wisdom, and let us collaboratively construct the paramount resource hub for each aspiring tech student. Together, we ascend! 🚀✨
+Click [here](CONTRIBUTING.md) for more instructions on adding your contribution to this repo 🌟
 
 ## License
 
