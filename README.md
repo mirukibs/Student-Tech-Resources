@@ -269,6 +269,40 @@ Explore these resources to deploy and host your applications.
     </a>
 </p>
 
+## System Design
+
+Explore tools and resources for designing robust and scalable systems.
+
+### Design Tools
+
+| Name                   | Description                       |
+| ---------------------- | --------------------------------- |
+| [draw.io](https://draw.io/) | A free online diagramming tool for creating flowcharts, process diagrams, and system architecture diagrams. |
+| [Lucidchart](https://www.lucidchart.com/) | A web-based diagramming tool that allows users to create flowcharts, wireframes, and system diagrams collaboratively. |
+| [Whimsical](https://whimsical.com/) | A visual workspace for creating flowcharts, wireframes, and mind maps collaboratively with a modern and user-friendly interface. |
+| [Creately](https://creately.com/) | A diagramming and collaboration tool that supports various diagram types, including flowcharts, mind maps, and wireframes. |
+
+### Tutorials and Guides
+
+| Name                          | Description                       |
+| ----------------------------- | --------------------------------- |
+| [System Design Primer](https://github.com/donnemartin/system-design-primer) | A comprehensive collection of resources and tutorials on system design concepts, covering scalability, distributed systems, and more. |
+| [Designing Data-Intensive Applications](https://dataintensive.net/) | A book by Martin Kleppmann that explores the principles, techniques, and patterns used in designing scalable and maintainable data-intensive applications. |
+| [How to Ace a System Design Interview](https://www.interviewbit.com/courses/system-design/) | A course on InterviewBit covering the fundamentals of system design and strategies to excel in system design interviews. |
+
+### YouTube
+
+| Name                          | Description                       |
+| ----------------------------- | --------------------------------- |
+| [Gaurav Sen](https://www.youtube.com/c/GauravSensei) | Gaurav Sen's YouTube channel with in-depth discussions on system design, scalability, and real-world engineering challenges. |
+| [System Design Interview](https://www.youtube.com/c/SystemDesignInterview) | YouTube channel dedicated to system design interviews, featuring mock interviews, tips, and discussions on designing scalable systems. |
+
+<p align="center">
+    <a href="#tech-student-resources-">
+        ⬆️ Back to Top
+    </a>
+</p>
+
 
 ## License
 
