@@ -2,7 +2,7 @@
 
 Welcome to the Tech Student Resources repository! 🎉 A curated list of resources for tech students.
 
-Don't forget to star ⭐ this repository.
+Star ⭐ this repository now. Don't lose it!
 
 Engage with the intellectual ambiance, contribute to the collective wisdom, and let us collaboratively construct the paramount resource hub for each aspiring tech student. Together, we ascend! 🚀✨
 
@@ -31,6 +31,7 @@ These resources will help you with basic knowledge on programming concepts, lang
 | [W3Schools](https://www.w3schools.com/) | A platform that teaches different programming languages and concepts|
 | [Codecademy](https://www.codecademy.com/) | A platform that teaches different programming languages and concepts|
 | [freeCodeCamp](https://www.freecodecamp.org/) | A platform like the ones above |
+| [Stack Overflow](https://stackoverflow.com/) | A forum for the community of devs online |
 
 ### Tools
 
@@ -66,11 +67,6 @@ These resources are for visual designs such as graphics, UI/UX and powerpoint de
 | [Flaticon](https://www.flaticon.com/) | Another collection of icons |
 | [Unsplash](https://unsplash.com/) | A collection of free and paid stock photos |
 | [Pexels](https://www.pexels.com/) | Another collection stock photos |
-
-### Desktop Apps
-
-| Name                   | Description                       |
-| ---------------------- | --------------------------------- |
 | Adobe Photoshop | Graphic design and photo manipulation software from adobe |
 | Adobe Illustrator| Vector graphic design software |
 | Adobe XD | An Adobe software for UI/UX designing |
@@ -84,6 +80,29 @@ These resources are for visual designs such as graphics, UI/UX and powerpoint de
 | [Piximperfect](https://www.youtube.com/@PiXimperfect) | A channel dedicated to Photoshop tutorials |
 | [Learn Adobe Illustrator](https://www.youtube.com/playlist?list=PLYfCBK8IplO4X-jM1Rp43wAIdpP2XNGwP) | A YT playlist for learning Adobe Illustrator |
 | [Satori Graphics](https://www.youtube.com/@SatoriGraphics) | A channel for graphic designing |
+
+
+## Mobile Development
+
+These are resources for Mobile Development.
+
+### Tools
+
+| Name                   | Description                       |
+| ---------------------- | --------------------------------- |
+| [Android Studio](https://developer.android.com/studio) | An IDE for mobile dev in Java and Kotlin |
+| [React Native](https://reactnative.dev/)    | A JS framework for mobile dev |
+| [Flutter](https://flutter.dev/) | An SDK for cross-platform applications |
+
+### YouTube
+
+| Name                          | Description                       |
+| ----------------------------- | --------------------------------- |
+| [Android Dev for Beginners](https://youtu.be/fis26HvvDII?si=1Yaqi91WCIc9ptkO) | A video course on mobile dev in Java |
+| [Android Development](https://youtube.com/playlist?list=PLsyeobzWxl7p-lZvWabkVJdM_UVURhUh4&si=DwLOUMSYivAWLWKj) | A playlist for learning android development |
+| [iOS App Development for Beginners](https://youtube.com/playlist?list=PL5PR3UyfTWvcRhz4ms-nNoGja2-DkA_6T&si=fcpRwQWgsvRHumZ7) | A playlist on app development for iOS systems |
+| [Flutter](https://www.youtube.com/@flutterdev) | The official Flutter YouTube channel with different tutorials |
+| [Flutter for beginners](https://youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ&si=YxdEZq3z5hEtt3B_) | A playlist to get started on Flutter |
 
 
 ## License
