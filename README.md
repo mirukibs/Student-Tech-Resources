@@ -49,7 +49,7 @@ Feel free to suggest new attractions or propose changes to the existing carnival
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE), giving you the freedom to remix and share the beats of knowledge.
+This project is licensed under the [MIT License](LICENSE.md), giving you the freedom to remix and share the beats of knowledge.
 
 Get ready to amplify your learning experience! 🚀🎓
 ```
