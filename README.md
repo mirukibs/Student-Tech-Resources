@@ -35,6 +35,7 @@ These resources will help you with basic knowledge on programming concepts, lang
 | [Codecademy](https://www.codecademy.com/) | A platform that teaches different programming languages and concepts|
 | [freeCodeCamp](https://www.freecodecamp.org/) | A platform like the ones above |
 | [Stack Overflow](https://stackoverflow.com/) | A forum for the community of devs online |
+| [Karan Projects](https://github.com/karan/Projects) | A github repo with coding exercises you can do in any language
 
 ### Tools
 
