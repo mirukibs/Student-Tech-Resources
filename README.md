@@ -7,7 +7,7 @@ Engage with the intellectual ambiance, contribute to the collective wisdom, and 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [How to Contribute](Contributing.md)
+- [How to Contribute](CONTRIBUTING.md)
 - [License](#license)
 
 ## Introduction
