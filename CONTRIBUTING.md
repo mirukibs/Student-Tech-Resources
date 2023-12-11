@@ -1,6 +1,3 @@
-Certainly! Here's the updated order for your CONTRIBUTING.md file:
-
-```markdown
 # Contributing to Tech Student Resources 🚀
 
 Thank you for considering contributing to this project! Your input is highly valued. Follow the steps below to make your contribution:
@@ -46,8 +43,6 @@ Push your changes to your forked repository:
 git push origin your-branch-name
 ```
 
-Ensure you replace "your-username" and "your-branch-name" with your GitHub username and the meaningful name of your branch, respectively. This order aligns with the steps you provided and maintains a clear and concise guide for contributors.
-
 ## Step 7: Create a Pull Request
 
 Showcase your expertise by initiating a pull request. Navigate to the original repository on GitHub, select "New Pull Request," and elucidate the nature of your modifications before submission.
@@ -55,3 +50,6 @@ Showcase your expertise by initiating a pull request. Navigate to the original r
 Feel empowered to propose novel attractions or suggest enhancements to the existing exposition through pull requests.
 
 Happy contributing! 🎉
+```
+
+Ensure you replace "your-username" and "your-branch-name" with your GitHub username and the meaningful name of your branch, respectively. This order aligns with the steps you provided and maintains a clear and concise guide for contributors.
