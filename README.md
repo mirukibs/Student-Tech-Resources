@@ -22,6 +22,7 @@ Engage with the intellectual ambiance, contribute to the collective wisdom, and 
 
 Click [here](CONTRIBUTING.md) for more instructions on adding your contribution to this repo 🌟
 
+
 ## Basic Programming
 
 These resources will help you with basic knowledge on programming concepts, languages and tools.
@@ -304,6 +305,41 @@ Explore tools and resources for designing robust and scalable systems.
         ⬆️ Back to Top
     </a>
 </p>
+
+## Classroom Content
+
+This section includes resources for the different courses and programs in tech.
+
+### Computer Science & Engineering
+
+| Name                   | Description                       |
+| ---------------------- | --------------------------------- |
+| [Computer Science Courses](https://github.com/Developer-Y/cs-video-courses) | A repo of CS courses |
+| [Awesome Computer Engineering](https://github.com/topics/computer-engineering) | A curated list of resources covering a wide range of computer engineering topics. |
+| [ElectronicsHub/Electronics-Learning-Resources](https://github.com/codeclannigeria/learning-resources) | Learning resources for electronics, providing valuable content for students. |
+| [r-ply/Embedded-Systems-Resources](https://github.com/embedded-boston/awesome-embedded-systems) | An awesome list of resources for embedded systems, essential for understanding system programming. |
+| [open-cores/open-cores](https://github.com/klyone/opencores-ip) | Open-source IP cores for FPGA and ASIC designs. |
+| [free-cad/FreeCAD](https://github.com/FreeCAD) | An open-source parametric 3D CAD modeler, useful for computer-aided design. |
+
+### Microcontrollers and Embedded Systems
+
+| Name | Description |
+| --- | --- |
+| [ARM-software/CMSIS](https://github.com/ARM-software/CMSIS_4) | ARM Cortex Microcontroller Software Interface Standard, providing a common approach to interfacing peripherals. |
+| [espressif/arduino-esp32](https://github.com/espressif/arduino-esp32) | Arduino core for the ESP32 WiFi chip, useful for IoT and embedded projects. |
+| [stm32duino/ArduinoCore-mbed](https://github.com/stm32duino) | Arduino Core for STM32 MCUs based on Mbed OS, facilitating STM32 development. |
+| [platformio/platformio-core](https://github.com/platformio) | An open-source ecosystem for IoT development, compatible with various microcontrollers. |
+| [micropython/micropython](https://github.com/micropython/micropython) | A lean implementation of Python 3, specifically optimized for microcontrollers. |
+
+### Computer Architecture and Organization
+
+| Name | Description |
+| --- | --- |
+| [riscv/riscv-isa-manual](https://github.com/riscv) | The RISC-V Instruction Set Architecture (ISA) Manual, essential for understanding RISC-V architecture. |
+| [pdos/pdos](https://github.com/mit-pdos) | The MIT Parallel and Distributed Operating Systems group's repository, providing resources on operating systems. |
+| [harvard-systems/yosys-qemu-bridge](https://github.com/YosysHQ) | A bridge between Yosys and QEMU, useful for hardware/software co-simulation. |
+| [openrisc/openrisc](https://github.com/openrisc) | OpenRISC processor architecture, providing resources for open-source RISC architecture. |
+| [fpga-tools/fpga-compiler](https://github.com/topics/fpga) | Various FPGA tools for synthesis and compilation. |
 
 
 ## License
