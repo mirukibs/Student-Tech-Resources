@@ -165,11 +165,11 @@ These resources cover Backend Development.
 | [Techsith - Spring Framework](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas) | In-depth tutorials on the Spring Framework by Techsith. |
 | [Telusko - Django Web Development with Python](https://www.youtube.com/watch?v=OTmQOjsl0eg) | Django web development series by Telusko. |
 
-<button type="button" style="margin: 0 auto; display: block;">
+<p align="center">
     <a href="#tech-student-resources-">
         ⬆️ Back to Top
     </a>
-</button>
+</p>
 
 
 ## Frontend Development
