@@ -342,6 +342,12 @@ This section includes resources for the different courses and programs in tech.
 | [openrisc/openrisc](https://github.com/openrisc) | OpenRISC processor architecture, providing resources for open-source RISC architecture. |
 | [fpga-tools/fpga-compiler](https://github.com/topics/fpga) | Various FPGA tools for synthesis and compilation. |
 
+<p align="center">
+    <a href="#tech-student-resources-">
+        ⬆️ Back to Top
+    </a>
+</p>
+
 
 ## License
 
