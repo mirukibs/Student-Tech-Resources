@@ -129,13 +129,13 @@ These resources cover Backend Development.
 | [Express.js](https://expressjs.com/) | A fast, unopinionated, minimalist web framework for Node.js. |
 | [Postman](https://www.postman.com/) | A collaboration platform for API development, including API testing and documentation. |
 | [Docker](https://www.docker.com/) | A platform for developing, shipping, and running applications in containers. |
+| [jsonlint](https://jsonlint.com/) | Online JSON validator and formatter to ensure your JSON data is valid and well-formatted. |
 
 ### YouTube
 
 | Name                          | Description                       |
 | ----------------------------- | --------------------------------- |
 | [The Net Ninja - Node.js](https://www.youtube.com/c/TheNetNinja/playlists?view=50&sort=dd&shelf_id=5) | Comprehensive Node.js tutorials by The Net Ninja. |
-| [Spring Framework - Telusko](https://www.youtube.com/watch?v=If1Lw4pA3aI) | Telusko's tutorial on the Spring Framework. |
 | [Corey Schafer - Django](https://www.youtube.com/playlist?list=PL-osiE80TeTs4UjLw5MM6OjgkjFeUxCYH) | Django tutorials by Corey Schafer. |
 | [Amigos Code](https://www.youtube.com/c/amigoscode) | Amigos Code YouTube channel providing practical programming tutorials and insights. |
 | [Dan Vega](https://www.youtube.com/c/DanVega) | Dan Vega's YouTube channel offering valuable content on backend development and software engineering. |
@@ -143,7 +143,6 @@ These resources cover Backend Development.
 | [Traversy Media - Express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) | A crash course on Express.js by Traversy Media. |
 | [Techsith - Spring Framework](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas) | In-depth tutorials on the Spring Framework by Techsith. |
 | [sentdex - Django Web Development with Python](https://www.youtube.com/watch?v=OTmQOjsl0eg) | Django web development series by sentdex. |
-| [Traversy Media - Laravel 8 Tutorial](https://www.youtube.com/watch?v=3qJY4yRqJDo) | Laravel 8 tutorial by Traversy Media. |
 
 ## Frontend Development
 
@@ -167,17 +166,16 @@ These resources are tailored for Frontend Development.
 | [Visual Studio Code](https://code.visualstudio.com/) | A lightweight, powerful code editor for frontend development. |
 | [Chrome DevTools](https://developers.google.com/web/tools/chrome-devtools) | A set of web developer tools built directly into the Google Chrome browser. |
 | [React](https://reactjs.org/) | A JavaScript library for building user interfaces, particularly single-page applications. |
+| [jsonlint](https://jsonlint.com/) | Online JSON validator and formatter to ensure your JSON data is valid and well-formatted. |
 
 ### YouTube
 
 | Name                          | Description                       |
 | ----------------------------- | --------------------------------- |
-| [Traversy Media - HTML & CSS](https://www.youtube.com/playlist?list=PLillGF-RfqbaZnTGq0aLsOjpje3lYU6Fu) | HTML and CSS tutorials by Traversy Media. |
 | [Academind - JavaScript](https://www.youtube.com/playlist?list=PL55RiY5tL51rG1x02Yyj93iypUuHYXcB_) | JavaScript tutorials by Academind. |
 | [The Net Ninja - React](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR) | React.js tutorials by The Net Ninja. |
 | [Vue.js](https://www.youtube.com/c/vuejs) | The official Vue.js YouTube channel with tutorials and updates. |
 | [Academind - Vue.js](https://www.youtube.com/playlist?list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07) | Vue.js tutorials by Academind. |
-| [Academind - Next.js](https://www.youtube.com/playlist?list=PL55RiY5tL51pOaJ9rvNNxrHwwMZnpEzot) | Next.js tutorials by Academind. |
 
 ## License
 
