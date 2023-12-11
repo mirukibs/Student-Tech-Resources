@@ -189,7 +189,7 @@ These resources are tailored for Frontend Development.
 | [Vue.js](https://www.youtube.com/c/vuejs) | The official Vue.js YouTube channel with tutorials and updates. |
 | [Academind - Vue.js](https://www.youtube.com/playlist?list=PL55RiY5tL51p-YU-Uw90qQH419BM4Iz07) | Vue.js tutorials by Academind. |
 
-<p text-align="center">
+<p align="center">
     <a href="#tech-student-resources-">
         [⬆️ Back to Top](#tech-student-resources-)
     </a>
