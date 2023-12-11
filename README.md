@@ -13,7 +13,7 @@ Welcome to the Tech Student Resources repository! 🌟 This project is your go-t
 
 Yo, tech wizards! 🧙‍♂️ Navigating the vast sea of resources just got easier with this rad repository. Dive in to discover epic websites, mind-blowing ebooks, and game-changing programming hacks. Your quest for knowledge starts here! 🚀
 
-Feel the vibe, contribute to the tribe, and let's build the ultimate resource hub for every tech student out there. Together, we rise! 🌈✨
+Feel the vibe, contribute to the tribe, and let's build the ultimate resource hub for every tech student out there. Together, we rise! 🚀✨
 
 ## How to Contribute
 
