@@ -46,7 +46,7 @@ These resources will help you with basic knowledge on programming concepts, lang
 
 | Name                          | Description                       |
 | ----------------------------- | --------------------------------- |
-| [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)        | A channel about learning programming concehttp://www.jetbrains.com/pts and tools |
+| [Programming with Mosh](https://www.youtube.com/@programmingwithmosh)        | A channel about learning programming concepts and tools |
 | [Telusko](https://www.youtube.com/@Telusko)        | A channel to learning programming |
 | [Coding with John](https://www.youtube.com/@CodingWithJohn) | Just like the above |
 | [FreeCodeCamp](https://www.youtube.com/@freecodecamp) | The YouTube channel for [freeCodeCamp](https://www.freecodecamp.org/) |
