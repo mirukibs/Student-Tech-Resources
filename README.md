@@ -7,10 +7,10 @@ Engage with the intellectual ambiance, contribute to the collective wisdom, and 
 ## Table of Contents
 
 - [Introduction](#introduction)
-- [How to Contribute](CONTRIBUTING.md)
+- [How to Contribute](#contribution)
 - [License](#license)
 
-## Introduction
+## Contribution
 
 Click [here](CONTRIBUTING.md) for more instructions on adding your contribution to this repo 🌟
 
