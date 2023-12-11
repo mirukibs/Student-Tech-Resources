@@ -12,11 +12,8 @@ Engage with the intellectual ambiance, contribute to the collective wisdom, and 
 - [Basic Programming](#basic-programming)
 - [Designing (Visual Designs)](#designing-visual-designs)
 - [Mobile Development](#mobile-development)
-<<<<<<< HEAD
 - [Backend Programming](#backend-programming)
 - [Frontend Development](#frontend-development)
-=======
->>>>>>> c85a205c56ce51d9d420b41507efb731d88b126f
 - [License](#license)
 
 ## Contribution
