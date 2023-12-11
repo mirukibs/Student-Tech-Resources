@@ -163,7 +163,7 @@ These resources cover Backend Development.
 | [Academind - Node.js & Express](https://www.youtube.com/playlist?list=PL55RiY5tL51q4D-B63KBnygU6opNPFk_q) | Node.js and Express tutorials by Academind. |
 | [Traversy Media - Express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE) | A crash course on Express.js by Traversy Media. |
 | [Techsith - Spring Framework](https://www.youtube.com/playlist?list=PLqq-6Pq4lTTZSKAFG6aCDVDP86Qx4lNas) | In-depth tutorials on the Spring Framework by Techsith. |
-| [sentdex - Django Web Development with Python](https://www.youtube.com/watch?v=OTmQOjsl0eg) | Django web development series by sentdex. |
+| [Telusko - Django Web Development with Python](https://www.youtube.com/watch?v=OTmQOjsl0eg) | Django web development series by Telusko. |
 
 <p align="center">
     <a href="#tech-student-resources-">
