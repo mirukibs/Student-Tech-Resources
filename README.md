@@ -9,11 +9,10 @@ Engage with the intellectual ambiance, contribute to the collective wisdom, and 
 ## Table of Contents
 
 - [How to Contribute](#contribution)
-- [License](#license)
 - [Basic Programming](#basic-programming)
 - [Designing (Visual Designs)](#designing-visual-designs)
 - [Mobile Development](#mobile-development)
-- [Backend Programming](#backend-programming)
+- [License](#license)
 
 ## Contribution
 
