@@ -1,6 +1,8 @@
 # Tech Student Resources 🚀
 
-Welcome to the Tech Student Resources repository! 🎉 A curated list of resources for tech students. Don't forget to star ⭐ this repository.
+Welcome to the Tech Student Resources repository! 🎉 A curated list of resources for tech students.
+
+Don't forget to star ⭐ this repository.
 
 Engage with the intellectual ambiance, contribute to the collective wisdom, and let us collaboratively construct the paramount resource hub for each aspiring tech student. Together, we ascend! 🚀✨
 
@@ -44,7 +46,8 @@ These resources will help you with basic knowledge on programming concepts, lang
 | Name                   | Description                       |
 | ---------------------- | --------------------------------- |
 | [PHP Tutorial](https://www.phptutorial.net/) | This PHP tutorial helps you learn how to develop dynamic websites and web applications using PHP from scratch.     |
-| [Example Website 2](#) | Practical exercises and challenges|
+| [W3Schools](https://www.w3schools.com/) | A platform that teaches different programming languages and concepts|
+| [Codecademy](https://www.codecademy.com/) | A platform that teaches different programming languages and concepts|
 
 ### Tools
 
