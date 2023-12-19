@@ -293,6 +293,7 @@ Explore tools and resources for designing robust and scalable systems.
 | [System Design Primer](https://github.com/donnemartin/system-design-primer) | A comprehensive collection of resources and tutorials on system design concepts, covering scalability, distributed systems, and more. |
 | [Designing Data-Intensive Applications](https://dataintensive.net/) | A book by Martin Kleppmann that explores the principles, techniques, and patterns used in designing scalable and maintainable data-intensive applications. |
 | [How to Ace a System Design Interview](https://www.interviewbit.com/courses/system-design/) | A course on InterviewBit covering the fundamentals of system design and strategies to excel in system design interviews. |
+| [System Design Basics](https://github.com/mirukibs/System-Design-Basics) | A repo with a quick guide into system design |
 
 ### YouTube
 
