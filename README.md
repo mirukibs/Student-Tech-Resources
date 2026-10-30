@@ -156,6 +156,7 @@ These resources cover Backend Development.
 | [Postman](https://www.postman.com/) | A collaboration platform for API development, including API testing and documentation. |
 | [Docker](https://www.docker.com/) | A platform for developing, shipping, and running applications in containers. |
 | [jsonlint](https://jsonlint.com/) | Online JSON validator and formatter to ensure your JSON data is valid and well-formatted. |
+| [BestJSON](https://bestjson.com/json-diff) | Free browser-local structural comparison to inspect added, removed, and changed values in JSON API responses without an account. |
 
 ### YouTube
 
